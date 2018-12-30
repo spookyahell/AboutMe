@@ -1,4 +1,4 @@
-# AboutMe
+# AboutMe / FAQ
 This is a bit about me, since a really good way of having a bio on Github is missing, this is a repo with that effect
 
 # What do I do all day normally?
@@ -70,3 +70,23 @@ I also enjoy two major talk shows:
 - Free Time is the best time of the day :)
 - Microsoft is cool and sucks at the same time ... LOL and no I do not want to discuss that.
 - Github is now part of Microsoft so... same for Github :)
+
+
+# FAQ
+
+## Will we ever see a real profile picture of you?
+No I have no such plans. Though I do write some personal info here I believe in staying anonymous as a person. Nothing you read here should be making it easy for you to find me in real life.
+
+## Do you frequently update your repos?
+No, normally I actually do not. It is quite possible that privately I already have a better version of something you're seeing here... and I have just been to lazy to update it. Though I will update stuff sometimes. It's not like I'm dead or sth... Best thing is just do sit and wait ... but if you really need a feature or sth. I will be happy to look at it when I find the time after you filed an issue or commented...
+FYI, privately I also have a shit-ton of scripts (python) that I don't publish (and some don't intend to for different reasons)
+
+
+## Any big plans for the future?
+Wow, you really ask the good questions... 
+
+I recently started working on a client for 1fichier... it might me the biggest thing I've ever done, because it also might be my first pypi-project... looking forward to working on that in 2019
+
+## What do we do if we want to know something personal that you didn't write here?
+
+WOW, okay, let's see... we are on Github, so comments are a thing. Catching where I'm going with this? Good. 'Cause I am not. 😂
