@@ -50,7 +50,12 @@ I enjoy(ed) watching following tv shows:
 - **Spongebob** (now this is one from the past for me... probably been more than 5 years since I've watched more than 5min videos from it on YouTube)
 
 
+I also enjoy two major talk shows:
 
+- **The Daily Show with Trevor Noah** (I watched every show since 2016 at least; I love #BehindTheScenes, and also Trevor Noah himself*)
+- **The Late Show with Stephen Colbert** (I watch every show and for the history I'm working my way up their entire youtube uploads)
+
+*might be interesting to know that I like that show so much I was there for a live-taping and you where actually able to see me as part of the audience in one of the episodes
 
 # Standpoints
 
