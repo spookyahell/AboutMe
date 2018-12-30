@@ -1,14 +1,21 @@
-# AboutMe / [FAQ](#FAQ)
+# AboutMe
 This is a bit about me, since a really good way of having a bio on Github is missing, this is a repo with that effect
 
-# What do I do all day normally?
+# Contents
+[Generic questions](#generic-questions)
+<br />[TV Shows](#tv-shows)
+<br />[Standpoints](#standpoints)
+<br />[FAQ](#faq)
+
+# Generic questions
+## What do I do all day normally?
 Getting ready for a job in real life, aka. a work/study combo
 
-# My life motto
+## My life motto
 
 #KeepItSimple #KeepItReal #KeepItFun
 
-# What programming languages am I experienced in?
+## What programming languages am I experienced in?
 I do most of my work in (and therefore know it quite a bit):
 
 - Python (version 3.6 and up)
@@ -24,7 +31,7 @@ I know the very basics of (really don't expect much from me here)
 - JS (IDK why I'm even mentioning it here, barely know anything about it)
 
 
-# What do I progam?
+## What do I progam?
 
 It depends, whatever I'm up for... though it usually has something to do with some webservice... or music... or tv... 
 
